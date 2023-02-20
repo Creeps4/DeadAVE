@@ -985,3 +985,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.20-02.36.33:974][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.20-02.36.34:120][  1]LogAssetRegistry: Asset discovery search completed in 9.8808 seconds
 [2023.02.20-02.36.34:126][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.02.20-02.38.23:300][440]LogDerivedDataCache: C:/Users/mccar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.075 and deleted 0 file(s) with total size 0 MiB.
