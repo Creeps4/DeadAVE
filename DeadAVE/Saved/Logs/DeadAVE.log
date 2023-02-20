@@ -767,3 +767,328 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.20-03.08.35:244][  0]LogAssetRegistry: Asset discovery search completed in 6.4260 seconds
 [2023.02.20-03.08.35:249][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.02.20-03.08.35:251][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.20-03.09.03:361][265]LogSlate: Window 'Project Settings' being destroyed
+[2023.02.20-03.09.03:365][265]LogSlate: Window 'Project Settings' being destroyed
+[2023.02.20-03.10.28:113][774]LogDerivedDataCache: C:/Users/mccar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.112 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.20-03.11.30:057][344]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2023.02.20-03.11.30:068][344]LogConcert: [Success] Launched Unreal Multi-User Server
+[2023.02.20-03.11.31:959][404]LogConcert: Display: Server DESKTOP-53MEET8 discovered.
+[2023.02.20-03.13.06:937][ 30]LogConcert: [Pending] Joining Session...
+[2023.02.20-03.13.06:937][ 30]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2023.02.20-03.13.06:940][ 30]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-03.13.07:195][ 34]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2023.02.20-03.13.07:227][ 35]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: DeadAVE
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:\Users\mccar\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:\Users\mccar\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:420][ 35]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: URL: C:\Users\mccar\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: URL: C:\Users\mccar\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.13.07:421][ 35]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.02.20-03.13.07:491][ 35]LogConcert: Display: Initialized Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.13.07:491][ 35]LogConcert: Display: Connecting to Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.13.07:556][ 40]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: DeadAVE
+[2023.02.20-03.13.07:559][ 40]LogConcert: Display: Connected to Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.13.07:559][ 40]LogConcertTakeRecorder: Display: Session Client Change: Liv Connected.
+[2023.02.20-03.13.07:559][ 40]LogConcert: Display: User 'olivi' (Endpoint: 647FCCAE477558478278C2857E816E2A) joined Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.13.07:589][ 44]LogConcert: Display: Synced activity '1' produced by endpoint '5AAF7ED9497ACEE784DDCCAB638AB78C': Christian joined the session.
+[2023.02.20-03.13.07:589][ 44]LogConcert: Display: Synced activity '2' produced by endpoint '88988F1848E0939759170EADED712ED4': Liv joined the session.
+[2023.02.20-03.13.07:610][ 44]LogConcert: Display: Synced activity '3' produced by endpoint '88988F1848E0939759170EADED712ED4': Liv discarded changes to package /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.
+[2023.02.20-03.13.07:610][ 44]LogConcert: Display: Synced activity '4' produced by endpoint '5AAF7ED9497ACEE784DDCCAB638AB78C': Christian left the session.
+[2023.02.20-03.13.07:610][ 44]LogConcert: Display: Synced activity '5' produced by endpoint 'CFF0CBFE41A1419418EF39BFE3B5C270': Christian joined the session.
+[2023.02.20-03.13.07:610][ 44]LogConcert: Display: Synced activity '6' produced by endpoint 'CFF0CBFE41A1419418EF39BFE3B5C270': Christian left the session.
+[2023.02.20-03.13.07:610][ 44]LogConcert: Display: Synced activity '7' produced by endpoint '88988F1848E0939759170EADED712ED4': Liv left the session.
+[2023.02.20-03.13.07:611][ 44]LogConcert: Display: Synced activity '8' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv joined the session.
+[2023.02.20-03.13.07:611][ 44]LogConcert: Display: Synced activity '9' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian joined the session.
+[2023.02.20-03.13.07:618][ 45]LogConcert: [Success] Joined Session 'DeadAVE'
+[2023.02.20-03.13.32:050][808]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.02.20-03.13.32:050][808]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.02.20-03.13.32:059][808]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.006448 seconds
+[2023.02.20-03.13.32:094][808]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431
+[2023.02.20-03.13.32:101][808]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431
+[2023.02.20-03.13.32:180][808]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431
+[2023.02.20-03.13.32:180][808]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431
+[2023.02.20-03.13.32:197][809]LogConcert: Display: Synced activity '10' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian added package /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SA/HEXFF5IZO6JGM1I92WPPGW.
+[2023.02.20-03.13.32:258][814]LogConcert: Display: Synced activity '11' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian created StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.34:914][133]LogConcert: Display: Synced activity '12' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian locked StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.38:914][605]LogConcert: Display: Synced activity '13' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian modified StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.38:914][605]LogConcert: Display: Synced activity '14' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian unlocked StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.40:752][825]Cmd: DELETE
+[2023.02.20-03.13.40:752][825]Cmd: ACTOR DELETE
+[2023.02.20-03.13.40:754][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.13.40:759][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-03.13.40:760][825]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.02.20-03.13.40:817][829]LogConcert: Display: Synced activity '15' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.45:329][368]LogConcert: Display: Synced activity '16' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.46:113][461]LogConcert: Display: Synced activity '17' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.46:113][461]LogConcert: Display: Synced activity '18' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.46:823][546]LogConcert: Display: Synced activity '19' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.48:437][738]LogConcert: Display: Synced activity '20' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.48:438][738]LogConcert: Display: Synced activity '21' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.13.59:510][ 62]LogConcert: Display: Synced activity '22' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.14.01:708][322]LogConcert: Display: Synced activity '23' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.14.01:708][322]LogConcert: Display: Synced activity '24' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.14.13:482][713]LogConcert: Display: Synced activity '25' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.14.14:448][826]LogConcert: Display: Synced activity '26' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.14.14:449][826]LogConcert: Display: Synced activity '27' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.14.19:030][308]Cmd: TRANSACTION UNDO
+[2023.02.20-03.14.19:030][308]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.20-03.14.20:047][392]Cmd: DELETE
+[2023.02.20-03.14.20:047][392]Cmd: ACTOR DELETE
+[2023.02.20-03.14.20:049][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:049][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:050][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:050][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:050][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:051][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:051][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:051][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:051][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:052][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:052][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:052][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:052][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:053][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:053][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:053][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:053][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:053][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:053][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:053][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:054][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:054][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:054][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:054][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:054][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:055][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.20:061][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-03.14.20:065][392]LogEditorActor: Deleted 26 Actors (0.017 secs)
+[2023.02.20-03.14.20:126][397]LogConcert: Display: Synced activity '28' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted StaticMeshActor_12 in /Game/FirstPerson/Maps/FirstPersonMap, plus 25 other actions.
+[2023.02.20-03.14.24:575][916]Cmd: DELETE
+[2023.02.20-03.14.24:575][916]Cmd: ACTOR DELETE
+[2023.02.20-03.14.24:577][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:577][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:577][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:578][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:578][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:578][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:578][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:578][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:579][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:579][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:580][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:580][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:580][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:580][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:580][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:581][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-03.14.24:585][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.02.20-03.14.24:587][916]LogEditorActor: Deleted 16 Actors (0.012 secs)
+[2023.02.20-03.14.24:657][923]LogConcert: Display: Synced activity '29' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted StaticMeshActor_1 in /Game/FirstPerson/Maps/FirstPersonMap, plus 15 other actions.
+[2023.02.20-03.14.31:047][652]Cmd: DELETE
+[2023.02.20-03.14.31:047][652]Cmd: ACTOR DELETE
+[2023.02.20-03.14.51:218][ 20]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.20-03.14.51:243][ 20]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.20-03.14.51:243][ 20]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.20-03.14.51:243][ 20]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.20-03.14.51:243][ 20]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.20-03.14.51:243][ 20]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.20-03.14.51:243][ 20]LogWorldPartition: Display: GetPartitionedActors took 34 us
+[2023.02.20-03.14.51:243][ 20]LogWorldPartition: Display: GenerateStreaming took 125 us
+[2023.02.20-03.14.51:244][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-03.14.51:244][ 20]PIE: New page: PIE session: FirstPersonMap (Feb 19, 2023, 5:14:51 PM)
+[2023.02.20-03.14.51:247][ 20]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.20-03.14.51:247][ 20]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.20-03.14.51:247][ 20]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.20-03.14.51:249][ 20]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.20-03.14.51:249][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002306s)
+[2023.02.20-03.14.51:249][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002347s)
+[2023.02.20-03.14.51:249][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-03.14.51:249][ 20]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.20-03.14.51:250][ 20]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.20-03.14.51:250][ 20]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.20-03.14.51:250][ 20]LogWorldPartition: Display: WorldPartition initialize took 442 us
+[2023.02.20-03.14.51:250][ 20]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2023.02.20-03.14.51:255][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-03.14.51:257][ 20]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.20-03.14.51:257][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-03.14.51:257][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-03.14.51:257][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-03.14.51:257][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-03.14.51:257][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.20-03.14.51:257][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.20-03.14.51:257][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.20-03.14.51:257][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-03.14.51:258][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-03.14.51:258][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-03.14.51:258][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-03.14.51:259][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.20-03.14.51:319][ 20]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SteelSeries Arctis 9 Game)
+[2023.02.20-03.14.51:319][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-03.14.51:319][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-03.14.51:319][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-03.14.51:320][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.20-03.14.51:320][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.20-03.14.51:321][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.20-03.14.51:321][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.20-03.14.51:321][ 20]LogInit: FAudioDevice initialized.
+[2023.02.20-03.14.51:321][ 20]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.02.20-03.14.51:334][ 20]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.20-03.14.51:335][ 20]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.19-22.14.51
+[2023.02.20-03.14.51:335][ 20]LogWorld: Bringing up level for play took: 0.000874
+[2023.02.20-03.14.51:336][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.02.20-03.14.51:348][ 20]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.20-03.14.51:348][ 20]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.20-03.14.51:348][ 20]PIE: Server logged in
+[2023.02.20-03.14.51:349][ 20]PIE: Play in editor total start time 0.107 seconds.
+[2023.02.20-03.15.13:395][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-03.15.13:395][641]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.20-03.15.13:395][641]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-03.15.13:395][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-03.15.13:408][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-03.15.13:410][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-03.15.13:415][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-03.15.13:415][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.20-03.15.13:416][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.20-03.15.13:420][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-03.15.13:422][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.02.20-03.15.13:457][643]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.02.20-03.15.33:871][ 76]LogConcert: Display: Synced activity '30' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv discarded changes to package /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.
+[2023.02.20-03.15.44:023][281]Cmd: DELETE
+[2023.02.20-03.15.44:023][281]Cmd: ACTOR DELETE
+[2023.02.20-03.15.44:025][281]LogEditorActor: Deleted Actor: BP_Rifle_C
+[2023.02.20-03.15.44:030][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-03.15.44:033][281]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.02.20-03.15.44:082][288]LogConcert: Display: Synced activity '31' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted BP_Rifle_C_1 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.57:854][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.20-03.18.57:855][529]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.006
+[2023.02.20-03.24.54:683][447]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-03.24.54:693][447]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-03.24.54:697][448]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-03.24.55:747][571]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2023.02.20-03.24.55:747][571]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-03.25.12:895][439]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2023.02.20-03.25.12:913][439]LogConcert: [Pending] Persisting Session Changes
+[2023.02.20-03.25.12:923][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.20-03.25.12:929][439]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.02.20-03.25.12:930][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/FirstPersonMapE28898F84E4ECD54BCC4D38EEF98EA60.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2023.02.20-03.25.12:966][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778
+[2023.02.20-03.25.12:966][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/ZNIOCRD90Z70MMV9NMW7781A2433914E6C38B2E9EC9AA6D5711451.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset'
+[2023.02.20-03.25.12:998][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV
+[2023.02.20-03.25.12:998][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/6JKB4DNGJP09QUHY23FHRVBBF37F2446ACF158ABD5FCACD6F1C332.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset'
+[2023.02.20-03.25.13:001][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI
+[2023.02.20-03.25.13:001][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/654T6CAPVSXAN1LXEX71EI5E541EF04EE30116943B6D92B245BEFD.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset'
+[2023.02.20-03.25.13:003][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20
+[2023.02.20-03.25.13:003][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/QZX5AESKLO855EVPT5JU20F1DF5FF34C63D68F68E2FA8E857DC9D3.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset'
+[2023.02.20-03.25.13:006][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2
+[2023.02.20-03.25.13:007][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/R4MRTH8FEAO7ML1BCJFIZ27189D107497C1E9DF6E797ADE2BB0B66.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset'
+[2023.02.20-03.25.13:009][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE
+[2023.02.20-03.25.13:010][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/RCXALNT3NG94XMV0V6D4XE5F1C0B3C4EF7AAE127C02BB3806627B8.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset'
+[2023.02.20-03.25.13:012][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V
+[2023.02.20-03.25.13:013][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/53TOYTOLDEUBMS5SLUFP3VDC0A0CDC410A0382A937029AEFED4A28.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.uasset'
+[2023.02.20-03.25.13:016][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ
+[2023.02.20-03.25.13:017][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/FI3CQDKJY4J00D2B21FYQZ09627EBA41943FF236C694B7D3CD2BFA.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.uasset'
+[2023.02.20-03.25.13:019][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9
+[2023.02.20-03.25.13:020][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/IY5R6I5N0YWU9LYWKXFXH99020A04F4549C99313C48FBF2F0D1F92.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset'
+[2023.02.20-03.25.13:022][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+[2023.02.20-03.25.13:022][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/MG6FOV6QQX2CAZCGF7O9MM072ED8204265A44D0FD3B08A0A64B65B.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset'
+[2023.02.20-03.25.13:024][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32
+[2023.02.20-03.25.13:025][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/9MHHMH0XHVZ04YDZ7NPC327B6A4A944BD1169F1ACB8481625DF625.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset'
+[2023.02.20-03.25.13:027][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL
+[2023.02.20-03.25.13:028][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/TOKV0KMMZ7RIQ78R0UEDQLD86ED34E42069B5360FE6795801375CE.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset'
+[2023.02.20-03.25.13:050][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1
+[2023.02.20-03.25.13:050][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/1GID8P6B00XRWKYCXU7HT1160307FC41CB13E8A15D188D85D63AFE.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.uasset'
+[2023.02.20-03.25.13:052][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI
+[2023.02.20-03.25.13:053][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/6EW8RE9VA2GGHRWK614FCIFB9DA0D647CBBDC9D8A1EB821974A1BE.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.uasset'
+[2023.02.20-03.25.13:055][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X
+[2023.02.20-03.25.13:055][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/1JZHHCOBVQ2F5XRUWSES1XEDD120E2484170092C732DA4359AE14B.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset'
+[2023.02.20-03.25.13:058][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2
+[2023.02.20-03.25.13:059][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/XIHYQ8ZTVL6F9GCUZX1AQ2851594674EE371A0292A6CA023CBF878.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset'
+[2023.02.20-03.25.13:061][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9
+[2023.02.20-03.25.13:061][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/FVTPO8KZ0WPMCSQLVJE6O9D35E247C4E78B40A57088EBBEA91AE7F.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset'
+[2023.02.20-03.25.13:081][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV
+[2023.02.20-03.25.13:082][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/DXY1ROMU8NVTUPH999VNGVF44B160645153D54B5DCDFBDA715EFB5.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset'
+[2023.02.20-03.25.13:084][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635
+[2023.02.20-03.25.13:085][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/G3O7YJR3QU51OHQGRYB6358C4DF1B34F330E14FA840DB1422E1FE4.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset'
+[2023.02.20-03.25.13:087][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4
+[2023.02.20-03.25.13:088][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/Z7CLKO8GGJ7RXH5PUAF4T41894E4D448BF46D07DBDE581C0C7CE72.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.uasset'
+[2023.02.20-03.25.13:090][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA
+[2023.02.20-03.25.13:091][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/U0XT0R08XQA6C15NK8ILFAB7F006E1485D918F58C415A9CDB8A7F7.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset'
+[2023.02.20-03.25.13:093][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0
+[2023.02.20-03.25.13:093][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/7EHFAZ5HVWXAWQ04QO5TH09C2251704B9D35BF1729CBB18B0FD8BE.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset'
+[2023.02.20-03.25.13:095][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9
+[2023.02.20-03.25.13:096][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/6HT16P8P5RAXNJG3EVYWE933C05F5D4C97F82CCA856B83C739A4A0.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset'
+[2023.02.20-03.25.13:098][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1
+[2023.02.20-03.25.13:099][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/4IRR0TBO7VGKMMYSZRQTB1BFDD82B548A2E12522A666821307A45F.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset'
+[2023.02.20-03.25.13:101][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29
+[2023.02.20-03.25.13:102][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/QQN0UFFAA797E1UT4IMD29F8276EBC49F10231A76D05888E43FED2.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset'
+[2023.02.20-03.25.13:104][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U
+[2023.02.20-03.25.13:105][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/LYKU8MRWM4BO3O1FDZBG2U8669B0184E1968860F321B98E7BE2E04.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset'
+[2023.02.20-03.25.13:107][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH
+[2023.02.20-03.25.13:108][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/XRLOR3HVYVHJA3N9PKGXZH74FE2CCA4F2979F69E5E8F8B0DFA4A0F.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset'
+[2023.02.20-03.25.13:110][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J
+[2023.02.20-03.25.13:110][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/KT6JL4FVCNJJ9VFOCSF32JC14E477947D6F360D90941A841BCE2FA.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset'
+[2023.02.20-03.25.13:113][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4
+[2023.02.20-03.25.13:113][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/ZXUQMNLL9GZ2UNQ5D0R4A4BC6FA28944FBD893458A15982C4C3336.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset'
+[2023.02.20-03.25.13:115][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML
+[2023.02.20-03.25.13:115][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/64ROQWZ22CQVFJMU4XABML9EF645B54B19D2B62ABB9DA5ACA5053F.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset'
+[2023.02.20-03.25.13:117][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN
+[2023.02.20-03.25.13:118][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/31H7DJTVWEX04CCMX5U1SN42FB72D14C97FE039BB884A5268EDEC2.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset'
+[2023.02.20-03.25.13:120][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN
+[2023.02.20-03.25.13:121][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/X084A70TPBKFLJDCV2U5PNAE8376B64C0F74D555DCE480562C9E77.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset'
+[2023.02.20-03.25.13:123][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT
+[2023.02.20-03.25.13:124][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/ZEL6NJUQJU43LAD9X3NXTT2C4DA133442876F63941C2B83BB67E55.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset'
+[2023.02.20-03.25.13:126][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC
+[2023.02.20-03.25.13:127][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/KY9ZXT77SAVGWBRTNCFCSC84F2E0FC48366B2A8C9F26A6E634A7AD.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset'
+[2023.02.20-03.25.13:129][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9
+[2023.02.20-03.25.13:129][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/NWWEVRQSGT6ARVZ8HQLCM9C64E69724C83505C5D423AA203AB13FA.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset'
+[2023.02.20-03.25.13:132][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME
+[2023.02.20-03.25.13:132][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/GZM47KS5FPIQH5TLSYC1MEE6C521B44CD23FC6DB3F7D8A5B5BEFBF.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset'
+[2023.02.20-03.25.13:134][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX
+[2023.02.20-03.25.13:135][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/YPSPM063O6XAJVKSDHY2JX1094D88E452951BD832F13B29A4631E5.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset'
+[2023.02.20-03.25.13:137][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK
+[2023.02.20-03.25.13:138][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/4ATOKH0ZGPCVBS85MPKAXKC706EEBE40F11D137834D5A5F2D285BF.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset'
+[2023.02.20-03.25.13:140][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H
+[2023.02.20-03.25.13:140][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/0GJ9TLQE2YKOIFZ6YHG33H645780204EFB357484B6A0B5034C8B65.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset'
+[2023.02.20-03.25.13:143][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ
+[2023.02.20-03.25.13:144][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/D1AHM62WL9TXSNPYQDXQMZE5D727B34720DC053D2AAAB81D6F8DB3.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset'
+[2023.02.20-03.25.13:146][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA
+[2023.02.20-03.25.13:146][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/0SPQG8P507LI9VUAFG20OA69DA84794DB717BE13A85BB41D1513F9.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset'
+[2023.02.20-03.25.13:149][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4
+[2023.02.20-03.25.13:149][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/Z38FT77DKZLKDXTQ7PZNM4CF71A122448359548CF8BCAB5079689E.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset'
+[2023.02.20-03.25.13:151][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2023.02.20-03.25.13:152][439]LogSavePackage: Moving 'E:/GitHubProjects/DeadAVE/DeadAVE/Saved/EAHCBN229IT8APJO305AH540099ECC4EFCB25A215851B5231D048F.tmp' to 'E:/GitHubProjects/DeadAVE/DeadAVE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2023.02.20-03.25.13:173][439]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2023.02.20-03.25.13:173][439]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2023.02.20-03.25.13:182][439]AssetCheck: New page: Asset Save: FirstPersonMap
+[2023.02.20-03.25.13:182][439]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.02.20-03.26.34:579][217]LogAssetTools: Warning: Failed to import 'E:\militarysupplies_vol1_tents_V2\Military_VOL1_4.17\Content\Military_VOL1_Tents\Meshes/SM_Tent_01a.uasset'. Unknown extension 'uasset'.
+[2023.02.20-03.26.34:591][217]LogAssetTools: Warning: Failed to import 'E:\militarysupplies_vol1_tents_V2\Military_VOL1_4.17\Content\Military_VOL1_Tents\Meshes/SM_Tent_03a.uasset'. Unknown extension 'uasset'.
+[2023.02.20-03.26.34:602][217]LogAssetTools: Warning: Failed to import 'E:\militarysupplies_vol1_tents_V2\Military_VOL1_4.17\Content\Military_VOL1_Tents\Meshes/SM_Tent_05a.uasset'. Unknown extension 'uasset'.
+[2023.02.20-03.26.34:615][217]LogAssetTools: Warning: Failed to import 'E:\militarysupplies_vol1_tents_V2\Military_VOL1_4.17\Content\Military_VOL1_Tents\Meshes/SM_Tent_12a.uasset'. Unknown extension 'uasset'.
+[2023.02.20-03.26.34:629][217]LogAssetTools: Warning: Failed to import 'E:\militarysupplies_vol1_tents_V2\Military_VOL1_4.17\Content\Military_VOL1_Tents\Meshes/SM_Tent_86a.uasset'. Unknown extension 'uasset'.
+[2023.02.20-03.26.34:645][217]LogAssetTools: Warning: Failed to import 'E:\militarysupplies_vol1_tents_V2\Military_VOL1_4.17\Content\Military_VOL1_Tents\Meshes/SM_ZBackdrop_01.uasset'. Unknown extension 'uasset'.
+[2023.02.20-03.26.56:519][360]LogAssetTools: Warning: Failed to import 'E:\militarysupplies_vol1_tents_V2\Military_VOL1_4.17\Content\Military_VOL1_Tents\Meshes\SM_Tent_01a.uasset'. Unknown extension 'uasset'.
+[2023.02.20-03.26.56:875][361]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18417751648590141809
+[2023.02.20-03.26.56:875][361]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
