@@ -778,3 +778,204 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.20-03.17.17:647][780]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
 [2023.02.20-03.17.17:647][780]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
 [2023.02.20-03.17.34:078][829]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.00:569][908]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.00:569][908]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.06:936][927]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.07:607][929]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.07:607][929]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.12:635][944]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.12:635][944]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.16:883][183]LogDerivedDataCache: C:/Users/olivi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.322 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.20-03.18.17:379][234]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.17:389][235]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.17:389][235]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.17:389][235]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.02.20-03.18.17:855][274]LogConcert: [Pending] Joining Session...
+[2023.02.20-03.18.17:855][274]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2023.02.20-03.18.17:858][274]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-03.18.18:345][278]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2023.02.20-03.18.18:421][281]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: DeadAVE
+[2023.02.20-03.18.18:455][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:455][281]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.20-03.18.18:455][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:455][281]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:\Users\olivi\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:\Users\olivi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:\Users\olivi\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:456][281]LogWindows: Warning: URL: C:\Users\olivi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.02.20-03.18.18:457][281]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.20-03.18.18:457][281]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.02.20-03.18.18:496][281]LogConcert: Display: Initialized Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.18.18:496][281]LogConcert: Display: Connecting to Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.18.18:638][293]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: DeadAVE
+[2023.02.20-03.18.18:645][293]LogConcert: Display: Connected to Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.18.18:724][299]LogConcert: [Success] Joined Session 'DeadAVE'
+[2023.02.20-03.18.18:725][299]LogConcert: Display: Synced activity '1' produced by endpoint '5AAF7ED9497ACEE784DDCCAB638AB78C': Christian joined the session.
+[2023.02.20-03.18.18:725][299]LogConcert: Display: Synced activity '2' produced by endpoint '88988F1848E0939759170EADED712ED4': Liv joined the session.
+[2023.02.20-03.18.18:727][299]LogConcert: Display: Synced activity '3' produced by endpoint '88988F1848E0939759170EADED712ED4': Liv discarded changes to package /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.
+[2023.02.20-03.18.18:728][299]LogConcert: Display: Synced activity '4' produced by endpoint '5AAF7ED9497ACEE784DDCCAB638AB78C': Christian left the session.
+[2023.02.20-03.18.18:728][299]LogConcert: Display: Synced activity '5' produced by endpoint 'CFF0CBFE41A1419418EF39BFE3B5C270': Christian joined the session.
+[2023.02.20-03.18.18:728][299]LogConcert: Display: Synced activity '6' produced by endpoint 'CFF0CBFE41A1419418EF39BFE3B5C270': Christian left the session.
+[2023.02.20-03.18.18:728][299]LogConcert: Display: Synced activity '7' produced by endpoint '88988F1848E0939759170EADED712ED4': Liv left the session.
+[2023.02.20-03.18.18:728][299]LogConcert: Display: Synced activity '8' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv joined the session.
+[2023.02.20-03.18.18:855][309]LogConcertTakeRecorder: Display: Session Client Change: Christian Connected.
+[2023.02.20-03.18.18:855][309]LogConcert: Display: User 'mccar' (Endpoint: C355F95D425B2DA69B9A5B876F95374F) joined Concert session 'DeadAVE' (Id: 8D32FF1648882EC75CDC19B70E5D6388, Owner: mccar).
+[2023.02.20-03.18.18:855][309]LogConcert: Display: Synced activity '9' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian joined the session.
+[2023.02.20-03.18.43:443][890]LogConcert: Display: Synced activity '10' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian added package /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SA/HEXFF5IZO6JGM1I92WPPGW.
+[2023.02.20-03.18.43:580][905]LogConcert: Display: Synced activity '11' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian created StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.46:242][198]LogConcert: Display: Synced activity '12' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian locked StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.50:233][629]LogConcert: Display: Synced activity '13' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian modified StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.50:234][629]LogConcert: Display: Synced activity '14' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian unlocked StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.52:144][843]LogConcert: Display: Synced activity '15' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.52:170][843]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05DDA0C1D306801_1499685431 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SA/HEXFF5IZO6JGM1I92WPPGW.PackageMetaData in its package
+[2023.02.20-03.18.52:181][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-03.18.56:654][361]LogConcert: Display: Synced activity '16' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.57:439][452]LogConcert: Display: Synced activity '17' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.57:439][452]LogConcert: Display: Synced activity '18' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.58:150][533]LogConcert: Display: Synced activity '19' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.59:758][718]LogConcert: Display: Synced activity '20' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.18.59:759][718]LogConcert: Display: Synced activity '21' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.19.10:832][ 26]LogConcert: Display: Synced activity '22' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.19.13:010][284]LogConcert: Display: Synced activity '23' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.19.13:011][284]LogConcert: Display: Synced activity '24' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.19.24:796][646]LogConcert: Display: Synced activity '25' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv locked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.19.25:764][759]LogConcert: Display: Synced activity '26' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv modified StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.19.25:774][760]LogConcert: Display: Synced activity '27' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv unlocked StaticMeshActor_44.StaticMeshComponent0 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.19.31:465][374]LogConcert: Display: Synced activity '28' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted StaticMeshActor_12 in /Game/FirstPerson/Maps/FirstPersonMap, plus 25 other actions.
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_13 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_26 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_25 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_12 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_23 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_42 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_33 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_34 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_17 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_21 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_22 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_41 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_14 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_18 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_19 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_32 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_31 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_16 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_37 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_35 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_28 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_27 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.PackageMetaData in its package
+[2023.02.20-03.19.31:493][374]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_36 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.PackageMetaData in its package
+[2023.02.20-03.19.31:503][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.02.20-03.19.35:985][910]LogConcert: Display: Synced activity '29' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted StaticMeshActor_1 in /Game/FirstPerson/Maps/FirstPersonMap, plus 15 other actions.
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_45 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_40 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_50 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_47 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_24 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_43 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_49 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_30 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_8 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_46 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_51 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_38 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_29 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.PackageMetaData in its package
+[2023.02.20-03.19.36:007][910]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_20 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.PackageMetaData in its package
+[2023.02.20-03.19.36:019][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-03.20.17:892][822]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.20-03.20.17:898][822]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.20-03.20.17:898][822]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.20-03.20.17:898][822]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.20-03.20.17:898][822]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.20-03.20.17:898][822]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.20-03.20.17:898][822]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2023.02.20-03.20.17:898][822]LogWorldPartition: Display: GenerateStreaming took 292 us
+[2023.02.20-03.20.17:898][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-03.20.17:899][822]PIE: New page: PIE session: FirstPersonMap (Feb 19, 2023, 5:20:17 PM)
+[2023.02.20-03.20.17:902][822]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.20-03.20.17:902][822]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.20-03.20.17:902][822]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.20-03.20.17:905][822]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.20-03.20.17:905][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002884s)
+[2023.02.20-03.20.17:905][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002946s)
+[2023.02.20-03.20.17:905][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-03.20.17:905][822]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.20-03.20.17:906][822]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.20-03.20.17:906][822]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.20-03.20.17:907][822]LogWorldPartition: Display: WorldPartition initialize took 852 us
+[2023.02.20-03.20.17:907][822]LogPlayLevel: PIE: World Init took: (0.002571s)
+[2023.02.20-03.20.17:915][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.20-03.20.17:915][822]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.20-03.20.17:915][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-03.20.17:915][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-03.20.17:915][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-03.20.17:915][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-03.20.17:915][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.20-03.20.17:915][822]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.20-03.20.17:915][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.20-03.20.17:915][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-03.20.17:916][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-03.20.17:916][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-03.20.17:916][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-03.20.17:918][822]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.20-03.20.17:937][822]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2023.02.20-03.20.17:937][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-03.20.17:937][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-03.20.17:937][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-03.20.17:937][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.20-03.20.17:937][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.20-03.20.17:939][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.20-03.20.17:939][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.20-03.20.17:939][822]LogInit: FAudioDevice initialized.
+[2023.02.20-03.20.17:939][822]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.02.20-03.20.17:950][822]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.20-03.20.17:951][822]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.19-22.20.17
+[2023.02.20-03.20.17:951][822]LogWorld: Bringing up level for play took: 0.000887
+[2023.02.20-03.20.17:953][822]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2023.02.20-03.20.17:967][822]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.20-03.20.17:967][822]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.20-03.20.17:967][822]PIE: Server logged in
+[2023.02.20-03.20.17:968][822]PIE: Play in editor total start time 0.071 seconds.
+[2023.02.20-03.20.45:113][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-03.20.45:113][ 38]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.20-03.20.45:114][ 38]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-03.20.45:114][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-03.20.45:127][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-03.20.45:128][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-03.20.45:136][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-03.20.45:137][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.20-03.20.45:139][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.20-03.20.45:145][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.20-03.20.45:219][ 41]LogConcert: Display: Synced activity '30' produced by endpoint '647FCCAE477558478278C2857E816E2A': Liv discarded changes to package /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.
+[2023.02.20-03.20.45:219][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.02.20-03.20.55:397][253]LogConcert: Display: Synced activity '31' produced by endpoint 'C355F95D425B2DA69B9A5B876F95374F': Christian deleted BP_Rifle_C_1 in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.20-03.20.55:414][253]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.PackageMetaData in its package
+[2023.02.20-03.20.55:422][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.20-03.26.53:058][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.02.20-03.26.53:060][668]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2023.02.20-03.36.53:737][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.02.20-03.36.53:737][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2023.02.20-03.46.57:531][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.02.20-03.46.57:532][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
